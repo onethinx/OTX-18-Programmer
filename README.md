@@ -1,4 +1,4 @@
-# OTX-18-Programmer-VS-C#
+# OTX-18-Programmer (Windows, Visual Studio, C#)
 Programming tool to program the M4 core on the Onethinx Core Module (using OpenOCD)
 
 Prerequisites:
